@@ -1,0 +1,42 @@
+body {
+    background-color: #DDD;
+}
+
+#bg {
+    margin: 0 auto;
+    width: 946px;
+    height: 1074px;
+    background-color: blue;
+}
+
+.top {
+    
+    margin: 0 auto;
+    width: 946px;
+    background: red;
+    height: 126px;
+}
+
+.left {
+    background-color: yellow;
+    width: 145px;
+    height: 1020px;
+    float: left;
+}
+.right {
+    background-color: yellow;
+    width: 145px;
+    height: 1020px;
+/*    margin-left: 656px;*/
+    margin-left: 69.3%;
+    float: left;
+}
+
+.bottom {
+    margin: 0 auto;
+    width: 946px;
+    height: 74px;
+    background-color: green;
+    margin-top: 946px;
+    
+}
